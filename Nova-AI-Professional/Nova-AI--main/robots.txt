@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://nova-ai-one-cyan.vercel.app/sitemap.xml
